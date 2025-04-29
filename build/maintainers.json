@@ -516,6 +516,9 @@
   "/anthropic/news": [
     "etShaw-zh"
   ],
+  "/anytxt/release-notes": [
+    "nczitzk"
+  ],
   "/apache/apisix/blog": [
     "aneasystone"
   ],
@@ -1672,9 +1675,6 @@
   "/coomer/:source?/:id?": [
     "nczitzk",
     "AiraNadih"
-  ],
-  "/copernicium/:category?": [
-    "dzx-dzx"
   ],
   "/copymanga/comic/:id/:chapterCnt?": [
     "btdwv",
@@ -4161,8 +4161,22 @@
   "/jiaoliudao/": [
     "TonyRL"
   ],
-  "/jiemian/list/:id": [],
-  "/jiemian/:category{.+}?": [],
+  "/jiemian/account/main/1": [
+    "nczitzk"
+  ],
+  "/jiemian/lists/:id": [
+    "WenhuWee",
+    "nczitzk"
+  ],
+  "/jiemian/special/1192": [
+    "nczitzk"
+  ],
+  "/jiemian/video/lists/258_1": [
+    "nczitzk"
+  ],
+  "/jiemian/pro/lists/12": [
+    "nczitzk"
+  ],
   "/jike/topic/text/:id": [
     "HenryQW"
   ],
@@ -4964,9 +4978,13 @@
   "/mycard520/category/:category?": [
     "nczitzk"
   ],
-  "/mydrivers/cid/:id?": [],
-  "/mydrivers/zhibo": [],
-  "/mydrivers/:category{.+}?": [],
+  "/mydrivers/cid/:id?": [
+    "nczitzk"
+  ],
+  "/mydrivers/:category{.+}?": [
+    "kt286",
+    "nczitzk"
+  ],
   "/mydrivers/rank/:range?": [
     "nczitzk"
   ],
@@ -5557,13 +5575,14 @@
   "/oo-software/changelog/:id": [
     "nczitzk"
   ],
-  "/openai/blog/:tag?": [
-    "StevenRCE0",
-    "nczitzk"
-  ],
   "/openai/chatgpt/release-notes": [],
   "/openai/cookbook": [
     "liyaozhong"
+  ],
+  "/openai/news": [
+    "goestav",
+    "StevenRCE0",
+    "nczitzk"
   ],
   "/openai/research": [
     "yuguorui"
@@ -7468,9 +7487,6 @@
   "/transformer-circuits/": [
     "shinmohuang"
   ],
-  "/trending/:keywords/:numberOfDays?": [
-    "Jkker"
-  ],
   "/trendingpapers/papers/:category?/:time?/:cited?": [
     "CookiePieWw"
   ],
@@ -8515,7 +8531,8 @@
     "pseudoyu"
   ],
   "/zhihu/hot/:category?": [
-    "nczitzk"
+    "nczitzk",
+    "pseudoyu"
   ],
   "/zhihu/posts/:usertype/:id": [
     "whtsky",
